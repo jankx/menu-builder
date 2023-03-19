@@ -1,0 +1,19 @@
+{
+    "name": "jankx/menu-builder",
+    "description": "The menu style and layout builder for Jankx framework",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Jankx\\Builder\\Menu": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
